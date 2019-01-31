@@ -1,0 +1,3 @@
+/home/mlevin/Desktop/Ex/dna_project/excellenteam-ella-c-dna-mwalles/dna/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/mlevin/Desktop/Ex/dna_project/excellenteam-ella-c-dna-mwalles/dna/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/mlevin/Desktop/Ex/dna_project/excellenteam-ella-c-dna-mwalles/dna/cmake-build-debug/CMakeFiles/dna.dir
